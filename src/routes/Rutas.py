@@ -1,0 +1,11 @@
+# Ruta del archivo SQL
+ruta_Extraer_NroDoc='./scripts/Extraer_NroDoc.sql'
+ruta_Pagos_OAC='./scripts/Pagos_OAC.sql'
+ruta_Insertar_Data_Tabla='./scripts/Insertar_Datos_Tabla.sql'
+ruta_libro_Formato='./src/models/FormatoInforme0y1Pago.xlsm'
+ruta_html='./output.html'
+Creacion_tabla = './scripts/Creacion_Tabla.sql'
+Actualizar_Pagos_PI = './scripts/Actualizar_Pagos_PI.sql'
+Actualizar_Pagos_PII = './scripts/Actualizar_Pagos_PII.sql'
+Creacion_Historico_y_Pagos='./scripts/Creacion_Historico_y_Pagos.sql'
+Creacion_Efectividades_Corp='./scripts/Creacion_Efectividades_Corp.sql'
